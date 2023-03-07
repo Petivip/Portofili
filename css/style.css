@@ -783,6 +783,7 @@ a:hover {
 .work-img {
   display: block;
   overflow: hidden;
+  margin: 1px;
 }
 
 .work-img img {
